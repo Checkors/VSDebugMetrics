@@ -1,0 +1,13 @@
+{
+    "type": "code",
+    "modid": "debugmetrics",
+    "name": "VSDebugMetrics",
+    "authors": [
+        "Cantos"
+    ],
+    "description": "Prints server metrics to debug",
+    "version": "1.0.0",
+    "dependencies": {
+        "game": ""
+    }
+}
